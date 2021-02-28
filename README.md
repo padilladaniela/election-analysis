@@ -1,9 +1,9 @@
 # election-analysis
 
-## Overview of Election Audit: Explain the purpose of this election audit analysis.
+## Overview of Election Audit
 The purpose of this election audit analysis was to find the winner of the elections by candidate name and by county. Performing this analysis helped us understand how to pull information from a .csv file to perform analysis on the data.
 
-## Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+## Election-Audit Results
 
 * There were **369,711** votes casted in this congressional election.
 

@@ -8,13 +8,13 @@ The purpose of this election audit analysis was to find the winner of the electi
 * There were 369,711 votes casted in this congressional election.
 ---
 
-*County Votes:
+**County Votes:
 
-Jefferson: 10.5% (38,855)
+    Jefferson: 10.5% (38,855)
 
-Denver: 82.8% (306,055)
+    Denver: 82.8% (306,055)
 
-Arapahoe: 6.7% (24,801)
+    Arapahoe: 6.7% (24,801)
 
 * The county with the largest number of votes was Denver.
 

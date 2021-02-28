@@ -5,7 +5,7 @@ The purpose of this election audit analysis was to find the winner of the electi
 
 ## Election-Audit Results
 
-* There were **369,711** votes casted in this congressional election.
+* There was **369,711** votes casted in this congressional election.
 
 #### County Votes:
 
@@ -17,7 +17,7 @@ The purpose of this election audit analysis was to find the winner of the electi
 
 * The county with the largest number of votes was *Denver.*
 
-* The number of votes and the percentage of the total votes for each candidate received as below:
+* The number of votes and the percentage of the total votes for each candidate as below:
 
         Charles Casper Stockham: 23.0% (85,213)
         

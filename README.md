@@ -1,7 +1,7 @@
 # election-analysis
 
 ## Overview of Election Audit
-The purpose of this election audit analysis was to find the winner of the elections by candidate name and by county. Performing this analysis helped us understand how to pull information from a .csv file to perform analysis on the data.
+The purpose of this election audit analysis was to find the winner of the elections by candidate name and by county for the Colorado Elections. Performing this analysis helped us understand how to pull information from a .csv file to perform analysis on the data.
 
 ## Election-Audit Results
 

@@ -28,4 +28,8 @@ The purpose of this election audit analysis was to find the winner of the electi
 * The winning candidate was *Diana DeGette with 272,892 votes, 73.8% of the total votes.*
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-This script can be use in the future to perform other elections analysis by just rewriting to pull the information requested. In the future, one way this can be done is by changing the paths on the code to the new .csv file to make sure we pull the correct data. Also, we can rewrite the code to provide us with different information such as adding poulation of each county to compare the real voter turnout. 
+This script can be use in the future to perform other elections analysis by just rewriting to pull the information requested. 
+* In the future, one way this can be done is by changing the paths on the code to the new .csv file to make sure we pull the correct data. 
+* Also, we can rewrite the code to provide us with different information such as adding poulation of each county to compare the real voter turnout. 
+
+Now that this  scritp has been done for this election it can run for any election, given the file is formatted in the same way. We just need to ensure the code is valid each time we run it.
